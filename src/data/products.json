@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Tasse croquante",
+    "image": "/produits/tasse-croquante.png",
+    "price": 2.99,
+    "description": "Tasse comestible à base de farine de blé et de cacao.\n- Goût légèrement sucré, parfaite pour boissons chaudes ou froides.\n- Résistante à la chaleur et à l'humidité.\n- Alternative gourmande et écologique aux tasses jetables."
+  },
+  {
+    "name": "Emballage film comestible",
+    "image": "produits/Emballage-film.png",
+    "price": 1.49,
+    "description": "Feuille comestible faite avec farine de riz et maïs.\n- Goût neutre, idéale pour tous les sandwichs.\n- Solide, résistante à l'humidité et parfaite pour le quotidien.\n- Alternative idéale au papier plastique traditionnel."
+  },
+  {
+    "name": "Cuillère comestible",
+    "image": "/produits/Cuillere-comestible.png",
+    "price": 0.99,
+    "description": "Cuillère croquante à base de farine de blé et d'avoine.\n- Goût neutre, compatible avec plats sucrés ou salés.\n- Résistante à la chaleur, ne fond pas dans les boissons chaudes.\n- Zéro déchet, à croquer après usage !"
+  },
+  {
+    "name": "Gobelet à base de riz",
+    "image": "/produits/Gobelet-a-base-de-riz.png",
+    "price": 1.99,
+    "description": "Gobelet comestible à base de riz (goût citron).\n- Léger, croquant et rafraîchissant.\n- Parfait pour boissons fraîches ou cocktails.\n- Alternative écologique aux gobelets en plastique."
+  },
+  {
+    "name": "Boîte à fruits comestible",
+    "image": "/produits/Boite-a-fruits.png",
+    "price": 3.49,
+    "description": "Boîte comestible à base de fibres naturelles et d'algues.\n- Goût neutre, idéale pour fruits, snacks ou desserts.\n- Résistante et biodégradable.\n- Remplace les boîtes en plastique à usage unique."
+  },
+  {
+    "name": "Assiette en algues",
+    "image": "/produits/Assiette-en-algues.png",
+    "price": 2.49,
+    "description": "Assiette écologique à base d'algues marines.\n- Goût neutre, compatible avec tous types de plats.\n- Solide, supporte plats chauds et froids.\n- Compostable et respectueuse de l'environnement."
+  },
+  {
+    "name": "Papier sandwich comestible",
+    "image": "/produits/Papier-Sandwich.png",
+    "price": 0.79,
+    "description": "Feuille comestible faite avec farine de riz et maïs.\n- Goût neutre, idéale pour tous les sandwichs.\n- Solide, résistante à l'humidité et parfaite pour le quotidien.\n- Alternative idéale au papier plastique traditionnel."
+  }
+] 
